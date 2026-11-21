@@ -53,3 +53,11 @@ p {
   border-radius: 4px;
   cursor: pointer;
 }
+
+.card:hover {
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.card-button:hover {
+  background-color: #2980b9;
+}
